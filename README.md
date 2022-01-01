@@ -26,5 +26,6 @@ plot_embeddings(avg_player_embeddings, player_metadata=enriched_player_metadata)
 
 
 **Data**
+
 Player data from STATSBOMB Open Source: https://github.com/statsbomb/open-data
 
